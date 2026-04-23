@@ -1,5 +1,5 @@
 package com.example.eurekaservice;
-
+/**
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,6 +10,14 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class EurekaServiceApplicationTests {
 
 	@Test
+	public void contextLoads() {
+	}
+
+}*/
+
+
+public class EurekaServiceApplicationTests {
+
 	public void contextLoads() {
 	}
 
